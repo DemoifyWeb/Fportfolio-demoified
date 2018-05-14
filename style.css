@@ -1,0 +1,30 @@
+/*
+ Theme Name:  Fportfolio Demoified
+ Theme URI:    http://example.com/Fportfolio-demoify/
+ Description:  This is the child theme of Fportfolio by demoify
+ Author:       Demoify
+ Author URI:   http://demoify.com/
+ Template:    fportfolio
+ Version:      1.0.9
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Fportfolio child demoify
+*/
+
+/* Customization starts from here*/
+
+[data-carousel-3d]:before {
+    background-color: #216DA9;
+}
+
+
+body {
+    font-size: 13px;
+    font-family: cursive;
+    margin: 0;
+    padding: 0;
+    color: #333333;
+    width: 100%;
+}
+
